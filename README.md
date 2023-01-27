@@ -2,7 +2,7 @@
 
 Replicar la interfaz dada con toggle IconButtons que cambien de color.
 
-![alt text](https://imgur.com/a/E1FMG9l)
+![McFlutter interface](https://i.imgur.com/xE8sC8a.png)
 
 
 
