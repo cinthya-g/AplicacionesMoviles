@@ -1,16 +1,5 @@
-# tarea2
+# Tarea 2: ITESO UI
 
-A new Flutter project.
+Replicar al layout dado. Colocar interactividad en botones: aumentar el contador de me gusta y mostrar _snackbars_ en cada uno de los íconos inferiores.
+Cambiar el color entre _toggles_ de botón a índigo y negro.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
