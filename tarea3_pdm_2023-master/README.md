@@ -11,4 +11,4 @@ App para practicar los siguientes temas:
 <img src="screenshot/Capture1.png" width="240" height="480" />
 
 ## Interfaz terminada
-![Hotel UI]<img src="https://i.imgur.com/isTPukn.png" width="240" height="480"/>
+<img src="https://i.imgur.com/isTPukn.png" width="240" height="480"/>
