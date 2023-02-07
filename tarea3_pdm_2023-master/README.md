@@ -1,21 +1,14 @@
-# Tarea 3 base
+# Tarea 3: Reservar un hotel
 
 App para practicar los siguientes temas:
-- Filas, Columnas
-- Alineacion de elementos
-- Imagenes
+- Filas, columnas
+- Alineación de elementos
+- Imágenes
 - Textos y estilos
-- Overflow de pixeles*
+- Overflow de pixeles
 
-## Getting Started
-
-Recuerda que despues de clonar el proyecto, abrir una terminal **dentro** de la carpeta del proyecto y ejecutar el comando:
-
-```sh
-flutter packages get
-``` 
-
-## App Screenshot
-
+## Interfaz base
 <img src="screenshot/Capture0.png" width="240" height="480" />
+
+## Interfaz terminada
 <img src="screenshot/Capture1.png" width="240" height="480" />
