@@ -1,16 +1,20 @@
-# crypto_look
+# Crypto Look App
+Tarea 4 de la materia Programación de Dispoitivos Móviles.
 
-A new Flutter project.
+## Temas
+* List View y List Tile
+* Widget builders
+* Cargar datos de un JSON/mapa
 
-## Getting Started
+## ¿Qué me costó más trabajo?
+Entender el funcionamiento del JSON decoder. 
+Si bien no lo vimos a fondo, el usar una variable global en _constants_ y recorrerla no fue difícil, pero no convertimos como tal un .json y creo que eso puede ser un poco más laborioso.
 
-This project is a starting point for a Flutter application.
+## Lo que aprendí
+* Aprendí acerca de ```ListView.separated()``` y sobre los _callbacks_ que utiliza para construir los divisores.
+* La función de la librería ```data:convert```.
+* Concatenar elementos de un JSON serializado dentro de un widget builder.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots de la app
+<img src"https://i.imgur.com/NTH4amo.png" width="200" height="400">
+<img src"https://i.imgur.com/JvKS2Td.png" width="200" height="400">
