@@ -16,5 +16,5 @@ Si bien no lo vimos a fondo, el usar una variable global en _constants_ y recorr
 * Concatenar elementos de un JSON serializado dentro de un widget builder.
 
 ## Screenshots de la app
-<img src"https://i.imgur.com/NTH4amo.png" width="200" height="400">
-<img src"https://i.imgur.com/JvKS2Td.png" width="200" height="400">
+<img src"https://i.imgur.com/NTH4amo.png" width="200" height="400" />
+<img src"https://i.imgur.com/JvKS2Td.png" width="200" height="400" />
